@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+.shenti{
+	margin-top:5px;
+}
+.shenti1{
+	width:100%;
+	height:480px;
+	overflow:hidden;
+	position:relative;
+}
+.shenti10{
+	width:100%;
+	height:200%;
+	position:absolute;
+	top:-190px;
+	z-index:-5;
+}
+.shenti11{
+	width:80%;
+	position:absolute;
+	left:152px;
+	top:118px;
+	z-index:-3;
+}
+.shenti12{
+	width:500px;
+	height:500px;
+	position:absolute;
+	left:-100px;
+	top:-150px;
+	background:url(../img/bhhf/zuoban.png);
+}
+.shenti12 a{
+	display:block;
+	width:200px;
+	height:200px;
+	padding:160px 0px 0px 110px;
+	font-size: 24px;
+	color:#fff;
+
+}
+.shenti12 img{
+	width:20px;
+	height:20px;
+	/*z-index:-3;*/
+}
+.shenti13{
+	width:500px;
+	height:500px;
+	position:absolute;
+	right:-100px;
+	bottom:-150px;
+	background:url(../img/bhhf/youban.png);
+}
+.shenti13 a{
+	display:block;
+	width:200px;
+	height:200px;
+	margin:200px 0px 0px 250px ;
+	padding:40px 0px 0px 40px;
+	font-size: 24px;
+	color:#fff;
+}
+.shenti13 img{
+	width:20px;
+	height:20px;
+}
+.zhuceceshi{
+	display:block;
+	margin:380px auto;
+	height:48px;
+	width:380px;
+	background:#77f1b6;
+	font-size:18px;
+	line-height: 48px;
+	text-align: center;
+}
+.shenti2{
+	width:100%;
+	height:435px;
+	overflow:hidden;
+	/*position:relative;*/
+	background:url(../img/bhhf/backDesc.jpg);
+}
+.shenti2x{
+	width:1230px;
+	margin:0 auto;
+}
+.shenti21{
+	width:35%;
+	float:left;
+	margin-top:100px;
+	text-align: center;
+	position:relative;
+}
+.shenti21 p{
+	width:99%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	color:#fff;
+	font-size: 44px;
+	
+	
+}
+.shenti21 img{
+	/*width:99%;*/
+	position:absolute;
+	top:80px;
+	left:70px;
+}
+.shenti22{
+	width:65%;
+	float:left;
+}
+.shenti22 p{
+	color:#fff;
+	font-size:19px;
+	margin-top:80px;
+	height:250px;
+}
+.shenti22 img{
+	display:block;
+	float: left;
+	width:20px;
+	height:20px;
+}
+.shenti22 a{
+	float: left;
+	color:#fff;
+	display:block;
+	width:240px;
+	height:60px;
+	padding:20px 10px 20px;
+	font-size:12px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaiziclassmate/Uber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaiziclassmate/Uber/issues"
+  },
+  "homepage": "https://github.com/shuaiziclassmate/Uber#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

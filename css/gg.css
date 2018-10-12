@@ -1,0 +1,309 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+ul,li{
+	list-style:none;
+}
+.OnTheTitle{
+	width:100%;
+	height:26px;
+	background:#FE6050;
+	text-align:center;
+}
+.OnTheTitle p{
+	color:#fff;
+	font-size:16px;
+	line-height:24px;
+}
+.OnTheTitle span{
+	color:#fff;
+	font-size:16px;
+	line-height:24px;
+}
+.Navigation{
+	width:100%;
+	height:59px;
+	text-align:center;
+}
+.Navigation img{
+	display:block;
+	float:left;
+	margin-top:15px;
+	margin-left:20px;
+}
+
+.sousuo{
+	width:513px;
+	height:35px;
+	border:1px solid #818181;
+	border-right:none;
+	display:block;
+	float:left;
+	margin-top:5px;
+}
+.fangdajing{
+	height:37px;
+	width:35px;
+	background:url(../img/fangdajin.gif);
+	border:1px solid #818181;
+	border-left:none;
+	display:block;
+	margin-top:5px;
+	float:left;
+}
+.suoyina{
+	width:30%;
+	float:left;
+}
+.suoyinb{
+	margin-top:10px;
+	width:45%;
+	float:left;
+	
+}
+.suoyinb form{
+	display:block;
+	width:550px;
+	margin:0 auto;	
+}
+.suoyinc{
+	margin-top:15px;
+	width:190px;
+	float:right;
+	position:relative;
+}
+.denglu{
+	display:block;
+	float:left;
+	line-height:35px;
+	font-size:14px;
+}
+.gouwuche{
+	display:block;
+	float:right;
+	width:109px;
+}
+
+.gwca{
+	display:block;
+	width:35px;
+	height:35px;
+	line-height:35px;
+	background:#203348;
+	border-radius:50%;
+	position:absolute;
+	top:0px;
+	left:81px;
+	color:#fff;
+	font-size:22px;
+	line-height:35px;
+	text-align:center;
+}
+.gwcb{
+	display:block;
+	float:right;
+	width:87px;
+	height:33px;
+	line-height:35px;
+	background:#cef156;
+	line-height:33px;
+	text-align:center;
+	
+}
+.daohang{
+	height:40px;
+	width:960px;
+	margin:25px auto 0;
+	text-align:center;
+	
+}
+.daohang .dhbq{
+	display:inline-block;
+	padding:11px 17px;
+	height:20px;
+	line-height:20px;
+}
+
+.dhbq div{
+	position:absolute;
+	text-align:left;
+}
+.dhbq ul{
+	float:left;
+}
+.dahejia{
+	width:320px;
+	/*z-index:0;*/
+}
+.dahejia{
+	left:28%;
+}
+.dahejib{
+	width:960px;
+	position:absolute;
+	left:20%;
+	
+}
+.dahejia a,.dahejib a{
+	font-size:16px;
+	padding:2px;
+	display:none;
+	background:#000000;	
+	color:#ffffff;
+	
+}
+.dahejia ul,.dahejib ul{
+	width:320px;
+	
+}
+#lbt{
+	/*width:1349px;*/
+	height:349px;
+	position:relative;
+	margin:0 auto;
+}
+/*身体部分*/
+/*尾部*/
+.fukuanfsa{
+	width:100%;
+	margin:0 auto;
+	border-top:1px solid #e1e1e1;
+	border-bottom:1px solid #e1e1e1;
+	background:#fff;
+}
+.fukuanfsb{
+	width:690px;
+	height:122px;
+	/*background:red;*/
+	margin:0 auto;
+}
+.fukuanfsb img{
+	width:183px;
+	height:119px;
+	margin-left:35px;
+}
+.weibudaohang{
+	width:805px;
+	height:150px;
+	margin:45px auto 30px auto;
+}
+.weidaoa1 h4{
+	width:50%;
+	margin:-10px auto 0 auto;
+	font-weight: 400;
+	background:#fff;
+	text-align: center;
+	font-size: 16px;
+}
+.weidaoa2 h4{
+	width:80%;
+	margin:-10px auto 0 auto;
+	font-weight: 400;
+	background:#fff;
+	text-align: center;
+	font-size: 16px;
+}
+.weidaoa,.weidaob,.weidaoc,.weidaod{
+	padding:0 10px;
+	float:left;
+	/*background:red;*/
+	width:166px;
+	height:146px;
+	border:2px solid #191919;
+	/*position:relative;*/
+}
+.weidaoa,.weidaob,.weidaoc{
+	margin-right: 15px;
+}
+.weibudaohang .xiaokuangkuang{
+	margin:10px 25px;
+	font-size:14px;
+	line-height:22px;
+}
+.weibudaohang2{
+	width:100%;
+	height:34px;
+	margin-bottom:15px;
+}
+.weibu2{
+	width:475px;
+	margin: 0 auto;
+}
+.xiaotukuang{
+	float:right;
+}
+.weibu2 .xiaotu1{
+	width:22px;
+	height:20px;
+}
+.weibu2 .xiaotu2{
+	width:33px;
+	height:20px;
+}
+.weibu2 .xiaotu3{
+	width:56px;
+	height:20px;
+}
+.weibu2 .xiaotu4{
+	width:32px;
+	height:20px;
+}
+.weibudaohang3{
+	margin-bottom:15px;
+	width:100%
+}
+.weibujieshao{
+	font-size:12px;
+	width:60%;
+	margin:0 auto;
+}
+#wddl{
+	display:block;
+}
+#wdzh{
+	display:none;
+}
+#wdgw{
+	display:block;
+}
+#wdgwc{
+	display:none;
+}
+
+#wdzh{
+	position:absolute;
+	text-align: left;
+	width: 65px;
+	z-index: 10;
+}
+#wdzh li{
+	height:22px;
+}
+#wdzh a{
+	display:block;
+	width:64px;
+	height:22px;
+	font-size: 14px;
+	text-align: center;
+}
+.wdzh12{
+	background: #000;
+	color:#fff;
+	display: none;
+}
+#wdzh #wdzh1{
+	height:40px;
+}
+#wdzh #zhuxiao{
+	height: 30px;
+	border-top:1px solid #dedede;
+	line-height: 30px;
+}

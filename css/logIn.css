@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+ul,li{
+	list-style:none;
+}
+.bigbox{
+	padding:0 13px;
+}
+.logo{
+	width:125px;
+	height:55px;
+	margin:30px auto 46px auto;
+	text-align: center;
+}
+.logoa{
+
+	margin-bottom: 30px;
+}
+.logoa h2{
+	font-weight:lighter;
+	font-size: 26px;	
+}
+form span{
+	display:block;
+	color:#616161;
+	font-size: 13px;
+	margin-bottom:-16px;
+	margin-top:16px;
+}
+.kuangzi{
+	border:1px solid #cccccc;
+	width:376px;
+	height:30px;
+}
+#denglu{
+	background:#7396ce;
+	border:none;
+	width:53px;
+	height:33px;
+	color:#fff;
+	font-weight:666;
+	margin-top: 16px;
+}
+.wangji{
+	margin-top: 20px;
+	float:right;
+	color:#004b98;
+	font-size: 12px;
+	font-weight:666;
+}
+.jizhumima{
+	font-size: 13px;
+	color:#616161;
+	font-size: 13px;
+	margin-bottom: 31px;
+	margin-top:15px;
+}
+.chuangjian{
+	display:block;
+	width:370px;
+	height:32px;
+	background:#7396ce;
+	border:1px solid #6088c7;
+	text-align: center;
+	line-height: 32px;
+	color:#fff;
+	font-weight:666;
+}
+
+.ljtu img{
+	width:75px;
+	height:32px;
+	border:1px solid #cccccc;
+}
+.ljtua{
+	margin-right:18px;
+}
+.tishi{
+	margin-top:0px;
+	color:red;
+	display:none;
+}

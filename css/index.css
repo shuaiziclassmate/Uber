@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*身体部分*/
+.shenti{
+	background:#f2f2f2;
+}
+.shangpina{
+	height:61px;
+	width:959px;
+	margin:0 auto;
+	text-align: center;
+	background:#f2f2f2;
+	
+}
+.shangpina span{
+	font-size: 30px;
+	
+	position:relative;
+}
+#shangpina1 p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	height:100%;
+	width:65%;
+	position:absolute;
+	top:0px;
+	left:20px;
+}
+#shangpina2 p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	height:100%;
+	width:65%;
+	position:absolute;
+	top:0px;
+	left:30px;
+}
+#shangpina3 p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	height:100%;
+	width:65%;
+	position:absolute;
+	top:0px;
+	left:70px;
+}
+#shangpina4 p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	height:100%;
+	width:65%;
+	position:absolute;
+	top:0px;
+	left:33px;
+}
+#shangpina5 p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	height:100%;
+	width:65%;
+	position:absolute;
+	top:0px;
+	left:20px;
+}
+.spkuanga{
+	/*background:#fff;*/
+	margin:0 auto;
+	width: 959px;
+	height:204px;
+	text-align:center;
+}
+.spkuanga img{
+	margin-top:20px;
+	height:164px;
+	width:126px;
+
+}
+.spleia{
+	display:block;
+	width:191px;
+	height:204px;
+	border-right: 1px solid #f2f2f2;
+	border-bottom:1px solid #d8d8d8;
+	float:left;
+	background:#fff;
+}
+.spleiaa{
+	display:block;
+	width:191px;
+	height:204px;
+	border-bottom:1px solid #d8d8d8;
+	float:left;
+	background:#fff;
+}
+.spkuangb{
+	/*background:#fff;*/
+	margin:0 auto;
+	width: 959px;
+	height:113px;
+	text-align:center;
+}
+.spleib{
+	display:block;
+	width:191px;
+	height:60px;
+	border-right: 1px solid #f2f2f2;
+	border-bottom:1px solid #d8d8d8;
+	float:left;
+	text-align:left;
+	background:#fff;
+}
+.spleibb{
+	display:block;
+	width:191px;
+	height:60px;
+	border-bottom:1px solid #d8d8d8;
+	float:left;
+	text-align:left;
+	background:#fff;
+}
+.gamem{
+	margin-top:12px;
+	margin-left:20px;
+	font-size: 14px;
+	
+}
+.gamej{
+	/*width:52px;*/
+	display:inline-block;
+	height:24px;
+	font-size: 14px;
+	line-height:24px;
+	background:#000;
+	color:#fff;
+	float:right;
+	margin-top: 5px;
+	margin-right: 2px;
+}
+.gameja{
+	display:inline-block;
+	height:24px;
+	background:#ff2553;
+}
+.gamejb{
+	font-size: 12px;
+	text-decoration:line-through;
+}
+.weidha{
+	width:959px;
+	/*height:45px;*/
+	margin:0 auto;
+	text-align:right;
+}
+.weidhb{
+	padding:6px 8px;
+	margin-top:10px;
+	margin-right: 10px;
+	display:inline-block;
+	background:#e1e1e1;
+	text-align: center;
+	font-size: 14px;
+}
