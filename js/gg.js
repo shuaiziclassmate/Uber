@@ -173,5 +173,4 @@ function xialajin(){
 	let evt=event||window.event;
 	evt.target.style.backgroundColor="#203348";
 	evt.target.style.color="#47a8ff";
-	}
 }
