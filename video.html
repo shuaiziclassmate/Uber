@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<video controls autoplay loop poster="" width="640" height="320">
+			<source src="video/video.mp4" type="video/mp4"></source>
+		</video>
+		<!--<div class="box">
+			<a href="#">something video</a>
+			<div>
+				<a href="#">first video</a>
+				<a href="#">two video</a>
+				<a href="#">three video</a>
+			</div>
+			<div>
+				<a href="#">first video</a>
+				<a href="#">two video</a>
+				<a href="#">three video</a>
+			</div>-->
+			<video width="640" height="320">
+				<source src="video.mp4" type="video/mp4"></source>
+				<source src="video.ogv" type="video/ogg"></source>
+				<source src="video.webm" type="video/webm"></source>
+				<object width="" height="" type="application/x-shockwave-flash" data="video.swf">
+					<param name="movie" value="video.swf" />
+					<param name="flashvars" value="autostart=true&amp;file=video.swf" />
+				</object>
+				当前浏览器不支持 video直接播放，点击这里下载视频： <a href="video.webm">下载视频</a>
+			</video>
+		</div>
+	</body>
+</html>
